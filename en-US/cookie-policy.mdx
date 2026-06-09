@@ -16,21 +16,21 @@ We and our third-party partners may collect personal data using cookies, which a
 
 Some Cookies are strictly necessary to make our Site available to you. Disabling these Cookies may make certain features and Site unavailable, and we cannot provide you with our Site without this type of Cookies. We use the following necessary Cookies:
 
-| Name | More Information | Retention |
-| --- | --- | --- |
-| `cookie_consent` | Stores your cookie consent preference so that you are not asked to accept or reject cookies on every visit. | 1 year |
-| `gt_theme` | Stores your preferred color theme (light, dark, or system) so that your preference is preserved across pages and visits. | 1 year |
-| `generaltranslation.locale` | Stores your selected language preference so the site can display content in your chosen locale. | Session |
-| `generaltranslation.locale-routing-enabled` | Records whether locale-based URL routing is active for your session. | Session |
-| `generaltranslation.referrer-locale` | Tracks the locale of the previous page during navigation to ensure correct language handling across page transitions. | Session |
-| `generaltranslation.locale-reset` | Transient flag that signals the middleware to honor a manual locale switch. Deleted by middleware after handling. | Session (transient) |
-| `gt-dash-auth` | Indicates whether you are currently signed into the General Translation dashboard. Used to redirect signed-in users to the dashboard from the homepage. | Session |
-| `gt_auth.session_token` | Stores your authenticated session token when you sign into the General Translation dashboard. Required to keep you logged in. (Also set as `__Secure-gt_auth.session_token` over HTTPS in production.) | 7 days |
-| `gt_auth.dont_remember` | Set when the "remember me" option is not selected during sign-in. | Session |
-| `gt-superuser` | JWT granting temporary admin access for internal impersonation. Set by the admin panel, read and cleared by the dashboard. | 4 hours |
-| `signin_error_code` | Temporarily stores an SSO enforcement error code (e.g. `sso_required`) to display on the sign-in page. | 60 seconds |
-| `signin_error_message` | Temporarily stores the human-readable error message for SSO enforcement. | 60 seconds |
-| `signin_error_email` | Temporarily stores the user's email when an SSO enforcement error occurs. | 60 seconds |
+| Name                                        | More Information                                                                                                                                                                                       | Retention           |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
+| `cookie_consent`                            | Stores your cookie consent preference so that you are not asked to accept or reject cookies on every visit.                                                                                            | 1 year              |
+| `gt_theme`                                  | Stores your preferred color theme (light, dark, or system) so that your preference is preserved across pages and visits.                                                                               | 1 year              |
+| `generaltranslation.locale`                 | Stores your selected language preference so the site can display content in your chosen locale.                                                                                                        | Session             |
+| `generaltranslation.locale-routing-enabled` | Records whether locale-based URL routing is active for your session.                                                                                                                                   | Session             |
+| `generaltranslation.referrer-locale`        | Tracks the locale of the previous page during navigation to ensure correct language handling across page transitions.                                                                                  | Session             |
+| `generaltranslation.locale-reset`           | Transient flag that signals the middleware to honor a manual locale switch. Deleted by middleware after handling.                                                                                      | Session (transient) |
+| `gt-dash-auth`                              | Indicates whether you are currently signed into the General Translation dashboard. Used to redirect signed-in users to the dashboard from the homepage.                                                | Session             |
+| `gt_auth.session_token`                     | Stores your authenticated session token when you sign into the General Translation dashboard. Required to keep you logged in. (Also set as `__Secure-gt_auth.session_token` over HTTPS in production.) | 7 days              |
+| `gt_auth.dont_remember`                     | Set when the "remember me" option is not selected during sign-in.                                                                                                                                      | Session             |
+| `gt-superuser`                              | JWT granting temporary admin access for internal impersonation. Set by the admin panel, read and cleared by the dashboard.                                                                             | 4 hours             |
+| `signin_error_code`                         | Temporarily stores an SSO enforcement error code (e.g. `sso_required`) to display on the sign-in page.                                                                                                 | 60 seconds          |
+| `signin_error_message`                      | Temporarily stores the human-readable error message for SSO enforcement.                                                                                                                               | 60 seconds          |
+| `signin_error_email`                        | Temporarily stores the user's email when an SSO enforcement error occurs.                                                                                                                              | 60 seconds          |
 
 ### Analytical Cookies
 
@@ -42,12 +42,12 @@ Analytical Cookies also help us measure advertising campaign performance and imp
 
 We use the following analytical Cookies:
 
-| Name | More Information | Retention |
-| --- | --- | --- |
-| `_ga` | Set by Google Analytics to distinguish unique users by assigning a randomly generated identifier. Used to calculate visitor, session, and campaign data for the site's analytics reports. | 2 years |
-| `_ga_<container-id>` | Set by Google Analytics to persist session state across page requests. | 2 years |
-| `ph_<token>_posthog` | Set by PostHog for product analytics. Stores a unique identifier for the user session to help us understand how visitors interact with our site. Only stored as a cookie when analytics consent is granted; otherwise held in memory only. | 1 year |
-| `_gcl_au` | Set by Google Ads to store and track conversions. Used to attribute which ad click led a visitor to the site. | 90 days |
+| Name                 | More Information                                                                                                                                                                                                                           | Retention |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| `_ga`                | Set by Google Analytics to distinguish unique users by assigning a randomly generated identifier. Used to calculate visitor, session, and campaign data for the site's analytics reports.                                                  | 2 years   |
+| `_ga_<container-id>` | Set by Google Analytics to persist session state across page requests.                                                                                                                                                                     | 2 years   |
+| `ph_<token>_posthog` | Set by PostHog for product analytics. Stores a unique identifier for the user session to help us understand how visitors interact with our site. Only stored as a cookie when analytics consent is granted; otherwise held in memory only. | 1 year    |
+| `_gcl_au`            | Set by Google Ads to store and track conversions. Used to attribute which ad click led a visitor to the site.                                                                                                                              | 90 days   |
 
 ## How to Block Cookies
 
