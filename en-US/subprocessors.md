@@ -6,7 +6,7 @@ last_updated: "2026-06-23"
 
 # Subprocessors
 
-General Translation uses the following subprocessors to assist in providing its services. This list is maintained in accordance with our [Data Processing Agreement](./data-processing).
+General Translation uses the following subprocessors to assist in providing its services. This list is maintained in accordance with our [Data Processing Agreement](./data-processing.md).
 
 | Subprocessor              | Purpose                                 | Location      | Link                                         |
 | ------------------------- | --------------------------------------- | ------------- | -------------------------------------------- |
@@ -31,4 +31,4 @@ General Translation uses the following subprocessors to assist in providing its 
 
 ## Notification of Changes
 
-General Translation will provide reasonable advance notice prior to appointing any new subprocessor, as described in our [Data Processing Agreement](./data-processing). Customers may subscribe to updates by contacting [support@generaltranslation.com](mailto:support@generaltranslation.com).
+General Translation will provide reasonable advance notice prior to appointing any new subprocessor, as described in our [Data Processing Agreement](./data-processing.md). Customers may subscribe to updates by contacting [support@generaltranslation.com](mailto:support@generaltranslation.com).
