@@ -1,8 +1,10 @@
 ---
-title: Cookie Policy
-description: How General Translation uses cookies and similar technologies.
-lastUpdated: May 21, 2026
+document_type: "reference"
+description: "How General Translation uses cookies and similar technologies."
+last_updated: "2026-05-21"
 ---
+
+# Cookie Policy
 
 General Translation, Inc. (“**General Translation**,” “**we**,” “**our**,” and/or “**us**”) values the privacy of individuals who use our website, www.generaltranslation.com, including subdomains of that website (collectively, the “Site”). This cookie policy (“**Cookie Policy**”) explains how we use cookies, what types of cookies we use, and how you can block cookies. The Cookie Policy forms part of our Privacy Policy.
 

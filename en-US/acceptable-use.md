@@ -1,8 +1,10 @@
 ---
-title: Acceptable Use Policy
-description: Acceptable use guidelines for General Translation’s services.
-lastUpdated: May 9, 2026
+document_type: "reference"
+description: "Acceptable use guidelines for General Translation’s services."
+last_updated: "2026-05-09"
 ---
+
+# Acceptable Use Policy
 
 This Acceptable Use Policy (**AUP**) contains rules that apply to the use of any products, services, or offerings of General Translation, Inc. (**General Translation**, **us**, **we**, or **our**) (such products, services, or offerings, the **Services**) by you or your users (collectively, **you**). Your use of the Services must comply with this AUP. This AUP is not exhaustive and may be updated by General Translation at any time by posting a revised version on its website.
 

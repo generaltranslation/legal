@@ -1,8 +1,10 @@
 ---
-title: Subprocessors
-description: List of subprocessors used by General Translation to provide its services.
-lastUpdated: June 23, 2026
+document_type: "reference"
+description: "List of subprocessors used by General Translation to provide its services."
+last_updated: "2026-06-23"
 ---
+
+# Subprocessors
 
 General Translation uses the following subprocessors to assist in providing its services. This list is maintained in accordance with our [Data Processing Agreement](/legal/data-processing).
 

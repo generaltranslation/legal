@@ -1,0 +1,8 @@
+{
+  "name": "@generaltranslation/legal",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/validate.mjs"
+  }
+}

@@ -1,8 +1,10 @@
 ---
-title: Data Processing Agreement
-description: Data processing terms for General Translation customer personal data.
-lastUpdated: May 21, 2026
+document_type: "reference"
+description: "Data processing terms for General Translation customer personal data."
+last_updated: "2026-05-21"
 ---
+
+# Data Processing Agreement
 
 This Data Processing Agreement (“**DPA**”) forms part of the Terms of Service or other written agreement between General Translation and Customer for the provision of the Services (“**Agreement**”). Unless otherwise defined in this DPA, capitalized terms used in this DPA will have the meaning given to them in the Agreement. In the event of a conflict between the terms of this DPA and the Agreement, the terms of this DPA will control to the extent of such conflict.
 

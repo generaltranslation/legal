@@ -1,8 +1,10 @@
 ---
-title: Terms of Service
-description: Terms governing use of General Translation services.
-lastUpdated: May 21, 2026
+document_type: "reference"
+description: "Terms governing use of General Translation services."
+last_updated: "2026-05-21"
 ---
+
+# Terms of Service
 
 These Terms of Service (including the other documents incorporated by reference herein, these “**Terms**”) are between General Translation, Inc., a Delaware corporation (“**General Translation,**” “**we**,” “**our**”, or “**us**,”) and you and are effective as of the date upon which you accept these Terms (“**Effective Date**”). General Translation and you are each a “**Party**” and, together, the “**Parties**.” “**Customer**” or “**you**” means in the case of an individual accepting these terms on their own behalf, such individual, or in the case of an individual accepting these terms on behalf of a company or other legal entity, the company or other legal entity for which such individual is accepting this Agreement.
 

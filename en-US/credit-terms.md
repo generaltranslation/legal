@@ -1,8 +1,10 @@
 ---
-title: Credit Terms
-description: Terms governing General Translation credits.
-lastUpdated: May 18, 2026
+document_type: "reference"
+description: "Terms governing General Translation credits."
+last_updated: "2026-05-18"
 ---
+
+# Credit Terms
 
 These **Credit Terms** are an agreement between you (**Customer**) and General Translation, Inc. (**General Translation**, **we**, **us**, or **our**). When Customer purchases or otherwise accepts from us any credit or other unit of consumption redeemable for use of our products, services, or offerings (such credits, **Credits**) (such products, services, or offerings, **Services**), Customer agrees that these Credit Terms apply. If Customer does not accept these Credit Terms, Customer may not purchase or otherwise accept Credits. These Credit Terms may be updated by General Translation at any time by posting a revised version on its website.
 

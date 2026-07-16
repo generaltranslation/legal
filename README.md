@@ -1,29 +1,17 @@
-# Legal Content
-
-Published legal documents live in this directory, separate from the docs content pipeline.
-
-Add locale-specific legal documents under:
-
-```text
-legal/en-US/<route>.mdx
-```
-
-Each published file becomes available at:
-
-```text
-/legal/<route>
-```
-
-Use lowercase, hyphenated route names such as `acceptable-use.mdx` or `terms.mdx`.
-
-Files prefixed with `_` are ignored and are safe to use as templates or drafts.
-
-Required frontmatter:
-
-```mdx
 ---
-title: Acceptable Use Policy
-description: Rules for using General Translation services.
-lastUpdated: January 1, 2026
+document_type: "reference"
 ---
-```
+
+# Legal
+
+This repository is the canonical source for General Translation's public legal documents. The landing site and internal company documentation consume pinned commits of this repository as Git submodules.
+
+## Documents
+
+- [United States English](en-US/README.md)
+
+## Publishing
+
+Edit legal text only in this repository. Each consumer must update its submodule pointer through a reviewed pull request before the change is published there.
+
+Documents use plain Markdown so the same source can be indexed by the internal docs app and rendered by the public landing site. Add locale-specific documents under `en-US/` using lowercase, hyphenated route names. Files prefixed with `_` are templates and are not published by the landing site.

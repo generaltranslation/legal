@@ -1,8 +1,10 @@
 ---
-title: Privacy Policy
-description: How General Translation collects, uses, and discloses personal data.
-lastUpdated: July 14, 2026
+document_type: "reference"
+description: "How General Translation collects, uses, and discloses personal data."
+last_updated: "2026-07-14"
 ---
+
+# Privacy Policy
 
 This privacy policy (“**Privacy Policy**”) describes the types of personal data that General Translation, Inc. (“**General Translation**,” “**we**,” “**our**,” and/or “**us**”) collects, uses, and discloses from individuals (“**you**” or “**your**”) who use our website at [**generaltranslation.com**](https://generaltranslation.com) along with our related websites, software-as-a-service AI-powered APIs and dashboard for localization, other downloadable applications, and other services provided by us (collectively, the “**Service**”). As used in this Privacy Policy, “personal data” means any information relating to an identified or identifiable individual.
 
