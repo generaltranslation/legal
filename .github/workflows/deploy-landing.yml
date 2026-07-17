@@ -1,33 +1,41 @@
-name: Trigger Landing Deploy
+name: Notify Legal Consumers
 
 on:
-  push:
+  workflow_run:
+    workflows: ["Validate legal documents"]
+    types: [completed]
     branches: [main]
 
-permissions:
-  contents: read
+permissions: {}
+
+concurrency:
+  group: notify-legal-consumers
+  cancel-in-progress: true
 
 jobs:
-  validate:
-    name: Validate legal documents
+  notify:
+    name: Notify ${{ matrix.repository }}
+    if: >-
+      github.event.workflow_run.event == 'push' &&
+      github.event.workflow_run.head_branch == 'main' &&
+      github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        repository:
+          - generaltranslation/company
+          - generaltranslation/gt-cloud
     steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v6
-        with:
-          node-version: '24'
-
-      - name: Validate legal documents
-        run: npm run check
-
-  deploy:
-    name: Trigger Vercel rebuild
-    runs-on: ubuntu-latest
-    needs: validate
-    steps:
-      - name: Trigger deploy hook
+      - name: Dispatch validated legal update
+        env:
+          GH_TOKEN: ${{ secrets.LEGAL_CONSUMER_TOKEN }}
+          LEGAL_SHA: ${{ github.event.workflow_run.head_sha }}
+          CONSUMER_REPOSITORY: ${{ matrix.repository }}
         run: |
-          curl --fail-with-body --silent --show-error --request POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
+          test -n "$GH_TOKEN"
+          gh api --method POST \
+            "repos/${CONSUMER_REPOSITORY}/dispatches" \
+            --raw-field event_type=legal-updated \
+            --raw-field "client_payload[sha]=${LEGAL_SHA}" \
+            --raw-field "client_payload[source_repository]=${GITHUB_REPOSITORY}"
