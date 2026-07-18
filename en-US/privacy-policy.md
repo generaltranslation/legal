@@ -111,7 +111,7 @@ We have set out below the legal bases we rely on in respect of the relevant purp
 
 **Linked third-party services.** If you log into the Service with, or otherwise link your Service account to, a third-party service, such as Google or GitHub, we may share your personal data with that third-party service. You understand and agree that the use of your information by any linked third-party services will be governed by the privacy policies of these third-party services. We encourage you to review their privacy policies.
 
-**Analytics Partners.** We use analytics services to collect and process certain analytics data, including session replays of signed-in users' interactions with our dashboard. These services may also collect information about your use of other websites, apps, and online resources.
+**Analytics Partners.** We use analytics services to collect and process certain analytics data, including session replays of users' interactions with our dashboard. These services may also collect information about your use of other websites, apps, and online resources.
 
 **As Required By Law and Similar Disclosures.** We may access, preserve, and disclose your information if we believe doing so is required or appropriate to:
 
