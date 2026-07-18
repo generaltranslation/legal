@@ -1,7 +1,7 @@
 ---
 document_type: "reference"
 description: "How General Translation uses cookies and similar technologies."
-last_updated: "2026-05-21"
+last_updated: "2026-07-17"
 ---
 
 # Cookie Policy
@@ -48,7 +48,7 @@ We use the following analytical Cookies:
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
 | `_ga`                | Set by Google Analytics to distinguish unique users by assigning a randomly generated identifier. Used to calculate visitor, session, and campaign data for the site's analytics reports.                                                  | 2 years   |
 | `_ga_<container-id>` | Set by Google Analytics to persist session state across page requests.                                                                                                                                                                     | 2 years   |
-| `ph_<token>_posthog` | Set by PostHog for product analytics. Stores a unique identifier for the user session to help us understand how visitors interact with our site. Only stored as a cookie when analytics consent is granted; otherwise held in memory only. | 1 year    |
+| `ph_<token>_posthog` | Set by PostHog for product analytics and, for signed-in users, session replay of their use of our dashboard. Stores a unique identifier for the user session to help us understand how visitors interact with our site. For visitors without an account, only stored as a cookie when analytics consent is granted via the cookie banner; otherwise held in memory only. For signed-in users, stored on the basis of their acceptance of our Terms of Service, which covers analytics and session recording of their use of the Service. | 1 year    |
 | `_gcl_au`            | Set by Google Ads to store and track conversions. Used to attribute which ad click led a visitor to the site.                                                                                                                              | 90 days   |
 
 ## How to Block Cookies
