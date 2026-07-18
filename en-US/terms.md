@@ -1,7 +1,7 @@
 ---
 document_type: "reference"
 description: "Terms governing use of General Translation services."
-last_updated: "2026-05-21"
+last_updated: "2026-07-17"
 ---
 
 # Terms of Service
@@ -50,7 +50,7 @@ To the extent that the generation of Outputs by the GT Platform results in the g
 
 ### 3.3. Feedback and Usage Data
 
-To the extent you provide us with feedback (including suggestions and comments for enhancements or functionality) regarding the GT Technology, or our products, services, or other technology (collectively, “**Feedback**”), we have the full and unrestricted right to use and exploit the Feedback or to incorporate Feedback into any products, services, technology, or other materials. We may collect and use data and information regarding you and your Users' access to and use of the Services, including data about feature usage, session activity, performance metrics, error logs, configurations, and interactions with the GT Technology (collectively, "**Usage Data**"). We have the right to use Usage Data for any lawful business purpose, including to operate, maintain, improve, and enhance the GT Technology and Services, to develop new products and services, to generate aggregated or de-identified analytics and benchmarking data, monitor usage and perform billing, and to fulfill our obligations under these Terms. Usage Data does not include Your Data. We retain all right, title, and interest in and to Usage Data.
+To the extent you provide us with feedback (including suggestions and comments for enhancements or functionality) regarding the GT Technology, or our products, services, or other technology (collectively, “**Feedback**”), we have the full and unrestricted right to use and exploit the Feedback or to incorporate Feedback into any products, services, technology, or other materials. We may collect and use data and information regarding you and your Users' access to and use of the Services, including data about feature usage, session activity, performance metrics, error logs, configurations, and interactions with the GT Technology (collectively, "**Usage Data**"). Usage Data may be collected through cookies and similar technologies; by registering for an account or using the Services, you agree to such collection and recording. We have the right to use Usage Data for any lawful business purpose, including to operate, maintain, improve, and enhance the GT Technology and Services, to develop new products and services, to generate aggregated or de-identified analytics and benchmarking data, monitor usage and perform billing, and to fulfill our obligations under these Terms. Usage Data does not include Your Data. We retain all right, title, and interest in and to Usage Data.
 
 ### 3.4. Reservation of Rights
 
