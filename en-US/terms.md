@@ -1,7 +1,7 @@
 ---
 document_type: "reference"
 description: "Terms governing use of General Translation services."
-last_updated: "2026-07-17"
+last_updated: "2026-07-31"
 ---
 
 # Terms of Service
@@ -20,11 +20,11 @@ You may execute one or more ordering documents or online forms or otherwise make
 
 Only your employees or contractors acting in such capacity (“**Users**”), using the mechanisms designated by us (“**Login Credentials**”), may access and use the GT Platform. Each User must keep its Login Credentials confidential and not share them with anyone else. You are responsible for your Users’ compliance with these Terms and all actions taken through your Login Credentials (excluding misuse of the Login Credentials caused by our breach of these Terms). You will promptly notify us if you become aware of any compromise of any Login Credentials.
 
-### 1.3. GT Software; Open Source
+### 1.3. GT Software; Open Source and Source Available
 
-**1.3(a).** If we deliver software to you under these Terms that are not GT Open Source Software (as defined below), then during the applicable Order Term and subject to the terms of these Terms, we hereby grant you a non-exclusive and non-sublicensable license to install and use on servers that you own or otherwise control (“**Customer Systems**”) the software applications provided by us that are used to facilitate access and use of the GT Platform (collectively, “**GT Software**”; and, together with GT Platform, and other technology provided by or on behalf of us “**GT Technology**”). You and your Users are responsible for installing all updates, modifications, or bug fixes to the GT Software and GT Open Source Software (as defined below) that we provide or make available.
+**1.3(a).** If we deliver software to you under these Terms that is not GT Open Source or GT Source Available (each as defined below), then during the applicable Order Term and subject to the terms of these Terms, we hereby grant you a non-exclusive and non-sublicensable license to install and use on servers that you own or otherwise control (“**Customer Systems**”) the software applications provided by us that are used to facilitate access and use of the GT Platform (collectively, “**GT Software**”; and, together with GT Platform, and other technology provided by or on behalf of us “**GT Technology**”). You and your Users are responsible for installing all updates, modifications, or bug fixes to the GT Software, GT Open Source, and GT Source Available (each as defined below) that we provide or make available.
 
-**1.3(b).** Use of the GT Platform may require you to use certain open-source software that we have made available pursuant to an open source software license and identified by us (the “**GT Open Source Software**”). The terms of that license will apply to such software instead of the terms of these Terms.
+**1.3(b).** Use of the GT Platform may require you to use certain software that we have made available and identified as either (i) open-source software pursuant to an open source software license (“**GT Open Source**”) or (ii) source-available software pursuant to a source-available software license (“**GT Source Available**”). The terms of the applicable license will apply to such software instead of the terms of these Terms.
 
 ### 1.4. Restrictions
 
@@ -46,7 +46,7 @@ You hereby grant us a non-exclusive, worldwide, sublicensable right to use, copy
 
 ### 3.2. Ownership of Outputs
 
-To the extent that the generation of Outputs by the GT Platform results in the generation of new intellectual property rights, we hereby assign to you title to such intellectual property rights. For clarity, and without limitation, the foregoing assignment does not include any intellectual property rights in or to GT Technology or GT Open Source Software, improvements or derivatives thereof, or intellectual property rights which GT came to own other than as a result of such generation of Outputs.
+To the extent that the generation of Outputs by the GT Platform results in the generation of new intellectual property rights, we hereby assign to you title to such intellectual property rights. For clarity, and without limitation, the foregoing assignment does not include any intellectual property rights in or to GT Technology, GT Open Source, or GT Source Available, improvements or derivatives thereof, or intellectual property rights which GT came to own other than as a result of such generation of Outputs.
 
 ### 3.3. Feedback and Usage Data
 
@@ -54,7 +54,7 @@ To the extent you provide us with feedback (including suggestions and comments f
 
 ### 3.4. Reservation of Rights
 
-Neither Party grants the other any rights or licenses not expressly set out in these Terms. Without limiting the foregoing, except for the limited licenses granted in these Terms, (a) you retain all of your rights in and to the Your Data and (b) we and our licensors retain all of their rights in and to the GT Technology, GT Open Source Software and Usage Data.
+Neither Party grants the other any rights or licenses not expressly set out in these Terms. Without limiting the foregoing, except for the limited licenses granted in these Terms, (a) you retain all of your rights in and to the Your Data and (b) we and our licensors retain all of their rights in and to the GT Technology, GT Open Source, GT Source Available, and Usage Data.
 
 ## 4. Customer Obligations
 
