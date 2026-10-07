@@ -46,7 +46,7 @@ The GT Technology may support integration with third-party platforms or services
 
 You hereby grant us a non-exclusive, worldwide, sublicensable right to use, copy, store, transmit, transfer, modify, create derivative works from and otherwise Process data, materials, and information that you (including your Users) input into or otherwise provide or make available to us through the GT Technology or otherwise in connection with the Services (including data transmitted to us by the GT Platform or accessed through a Third-Party Platform) (collectively, “**Your Data**”) to: (a) provide Services to you; and (b) Process and generate artificial intelligence outputs through the GT Platform (“**Outputs**”).
 
-We will not use Your Data, Outputs, or data derived from either to train or fine-tune any artificial intelligence or machine-learning model, and we will not permit our subcontractors to do so. This restriction applies even if such data is aggregated, anonymized, or de-identified. Processing such data to generate Outputs or otherwise provide the Services does not authorize model training or fine-tuning.
+We will not use Your Data or Outputs, including aggregated, anonymized, or de-identified forms of either, to train or fine-tune artificial intelligence or machine-learning models, or permit our subcontractors to do so.
 
 ### 3.2. Ownership of Outputs
 
@@ -88,7 +88,7 @@ You will pay the fees selected in each Order (“**Fees**"). All Fees will be pa
 
 ### 9.2. Payment and Taxes
 
-Unless an Order or the applicable subscription plan specifies otherwise, subscription Fees are due in advance of each billing cycle (monthly or annual, as selected by you at sign-up). All other Fees will be invoiced monthly in arrears and are due within 30 days of the invoice date. A payment deadline expressly specified in an Order or the applicable subscription plan controls over these default deadlines. Late payments are subject to a service charge of 1.5% per month or the maximum amount allowed by Laws, whichever is less. All Fees are non-refundable except as may be set out in Section 10.2(a) and Section 13.4. You are responsible for any sales, use, GST, value-added, withholding, or similar taxes or levies that apply to your purchases hereunder, whether domestic or foreign, other than our income tax (“**Taxes**”). Fees are exclusive of all Taxes.
+Except as may be set forth in an Order or the applicable subscription plan, you will pay us (a) subscription Fees in advance of each billing cycle (monthly or annual, as selected by you at sign-up), and (b) all other Fees not due upfront, monthly within 30 days after the end of the month in which the Fees were accrued. Late payments are subject to a service charge of 1.5% per month or the maximum amount allowed by Laws, whichever is less. All Fees are non-refundable except as may be set out in Section 10.2(a) and Section 13.4. You are responsible for any sales, use, GST, value-added, withholding, or similar taxes or levies that apply to your purchases hereunder, whether domestic or foreign, other than our income tax (“**Taxes**”). Fees are exclusive of all Taxes.
 
 ## 10. Warranties and Disclaimers
 
@@ -128,19 +128,11 @@ Either Party may terminate these Terms (including any or all Orders) if the othe
 
 ### 11.3. Effect of Termination
 
-Upon expiration or termination of a specific Order or these Terms, your access to and our obligations to provide the applicable terminated Services described will cease, except for the limited storage and retrieval described in Section 11.5, and you will promptly pay to us all unpaid Fees or other amounts that have accrued pursuant to any terminated Orders prior to the effective date of its expiration or termination. In addition, upon expiration or termination of these Terms, each Party will promptly return or delete Confidential Information of the other Party, subject to Section 11.5.
+Upon expiration or termination of a specific Order or these Terms, your access to and our obligations to provide the applicable terminated Services described will cease and you will promptly pay to us all unpaid Fees or other amounts that have accrued pursuant to any terminated Orders prior to the effective date of its expiration or termination. In addition, upon termination of these Terms, each Party will promptly return or delete Confidential Information of the other Party.
 
 ### 11.4. Survival
 
-These Sections survive expiration or termination of these Terms: 1.4; 1.5; 3; 7 (for as long as we or our subprocessors retain Customer Personal Data); 9; 10.3; 11.3; 11.4; 11.5; and 12 through 16. Except where an exclusive remedy is provided in these Terms, exercising a remedy under these Terms, including termination, does not limit other remedies a Party may have.
-
-### 11.5. Post-Termination Retention
-
-We may retain Your Data, Outputs, and your other Confidential Information for up to one year after expiration or termination of these Terms to support your requests for export, recovery, or account reactivation. Unless you instruct us otherwise, you instruct us to continue limited storage and retrieval for these purposes during that period to the extent we retain the data. Those limited Services continue under these Terms and the DPA without renewing your subscription or restoring GT Platform access. You may end this storage at any time by requesting return or deletion, which we will promptly carry out, subject to applicable law. This permission does not require us to retain data for the full year or guarantee its availability or recovery.
-
-Separately, we may retain customer-related business records, such as contracts, invoices, payment records, and account or support records, for up to one year after expiration or termination to the extent necessary and lawful for account administration, security, compliance, or resolving disputes. This permission does not authorize retention of Customer Personal Data processed on your behalf beyond the instructions and limits in the DPA.
-
-All retained information remains subject to applicable confidentiality, security, DPA, and no-model-training obligations. We will delete remaining copies by the end of the applicable retention period, or sooner where required by the DPA, an agreed shorter period, or applicable law. Information required to be retained by applicable law may be kept longer only for the required purpose and duration. Nothing in this Section overrides the DPA, applicable standard contractual clauses, or statutory deletion rights.
+These Sections survive expiration or termination of these Terms: 1.4; 1.5; 3; 7 (for as long as we or our subprocessors retain Customer Personal Data); 9; 10.3; 11.3; 11.4; and 12 through 16. Except where an exclusive remedy is provided in these Terms, exercising a remedy under these Terms, including termination, does not limit other remedies a Party may have.
 
 ## 12. Limitations of Liability
 
@@ -194,7 +186,7 @@ THIS SECTION 13 SETS OUT YOUR EXCLUSIVE REMEDY AND OUR ENTIRE LIABILITY REGARDIN
 
 ### 14.2. Obligations
 
-As Recipient, each Party will: (a) not disclose Discloser’s Confidential Information and will implement reasonable measures to prevent its disclosure to third parties except as permitted in these Terms, including Section 3.1; and (b) only use Confidential Information to fulfill its obligations and exercise its rights in these Terms. At Discloser’s request, Recipient will delete all Confidential Information, except, in the case where we are the Recipient, we may retain your Confidential Information to the extent required to continue to provide the GT Technology as contemplated by these Terms or as permitted by Section 11.5, subject to the return and deletion rights in that Section and the DPA. Recipient may disclose Confidential Information to its employees, agents, contractors, and other representatives having a legitimate need to know (including, for us, the subcontractors referenced in Section 16.8) (collectively, “**Representatives**”), provided Recipient remains responsible for their compliance with this Section 14 and such Representatives are bound by written agreements (or, in the case of professional advisers like attorneys and accountants, ethical duties) imposing confidentiality and non-use obligations no less protective than this Section 14.
+As Recipient, each Party will: (a) not disclose Discloser’s Confidential Information and will implement reasonable measures to prevent its disclosure to third parties except as permitted in these Terms, including Section 3.1; and (b) only use Confidential Information to fulfill its obligations and exercise its rights in these Terms. At Discloser’s request, Recipient will delete all Confidential Information, except, in the case where we are the Recipient, we may retain your Confidential Information to the extent required to continue to provide the GT Technology as contemplated by these Terms. Recipient may disclose Confidential Information to its employees, agents, contractors, and other representatives having a legitimate need to know (including, for us, the subcontractors referenced in Section 16.8) (collectively, “**Representatives**”), provided Recipient remains responsible for their compliance with this Section 14 and such Representatives are bound by written agreements (or, in the case of professional advisers like attorneys and accountants, ethical duties) imposing confidentiality and non-use obligations no less protective than this Section 14.
 
 ### 14.3. Exclusions
 
