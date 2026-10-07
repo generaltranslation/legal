@@ -1,7 +1,7 @@
 ---
 document_type: "reference"
 description: "How General Translation collects, uses, and discloses personal data."
-last_updated: "2026-07-17"
+last_updated: "2026-10-07"
 ---
 
 # Privacy Policy
@@ -75,6 +75,10 @@ We use the personal data we collect:
 - For compliance purposes, including enforcing our contracts or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process or governmental agency; and
 
 - For other purposes for which we provide specific notice at the time the information is collected.
+
+### No Model Training on Customer Data
+
+We do not use data provided by our customers, outputs generated from that data, or other data derived from it to train or fine-tune artificial intelligence or machine-learning models, and we do not permit our service providers to do so. This restriction applies even if such data is aggregated, anonymized, or de-identified. We may process customer data through models to provide the requested Service; that processing does not authorize model training or fine-tuning. The purposes described in this Privacy Policy, including service improvement and research and development, do not override this restriction.
 
 ## Legal Bases for Processing European Personal Data
 
