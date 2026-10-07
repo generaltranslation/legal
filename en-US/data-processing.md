@@ -139,15 +139,17 @@ The Customer Personal Data will be processed and transferred as described in the
 
 ### 7. Purposes of the International Data Transfer and Further Processing
 
-The Customer Personal Data will be transferred and further processed for the provision of the Services as described in the Agreement and DPA.
+The Customer Personal Data will be transferred and further processed for the provision of the Services as described in the Agreement and DPA, including the limited post-termination storage and retrieval described in Section 8 of this Schedule.
 
 ### 8. Duration of Processing
 
-The period for which the Personal Data will be retained, or, if that is not possible, the criteria used to determine that period: Customer Personal Data will be retained only for as long as necessary to provide the Services during the Agreement. Upon expiration or termination of the Agreement, General Translation will promptly return or delete Customer Personal Data, at Customer’s choice, and delete remaining copies, unless retention is required by applicable law. Any data retained as required by law remains protected by this DPA and may be Processed only for that required retention purpose.
+Customer Personal Data may be retained for the duration of the Agreement and for up to one year after its expiration or termination solely for the limited storage and retrieval described here. Unless Customer instructs otherwise, Customer instructs General Translation to continue storing Customer Personal Data on Customer’s behalf during that additional period to support Customer’s requests for export, recovery, or account reactivation, to the extent General Translation retains the data. This is a continuing, limited processing service governed by the Agreement, this DPA, and any applicable standard contractual clauses. It does not authorize Processing for General Translation’s own business purposes or require General Translation to retain data for the full period or guarantee recovery.
+
+Customer may end this storage at any time by instructing General Translation to return or delete Customer Personal Data. At the end of the limited storage service, and no later than the one-year anniversary of expiration or termination of the Agreement, General Translation will return or delete Customer Personal Data at Customer’s choice and delete remaining copies. General Translation will carry out an earlier return or deletion instruction promptly. Any shorter period in an Order, applicable Data Protection Law, or applicable standard contractual clauses controls. Retention required by applicable law may continue only for the required purpose and duration; the data remains protected by this DPA and must be deleted when that requirement ends.
 
 ### 9. Sub-Processor Transfers
 
-For International Data Transfer to (Sub)Processors, also specify subject matter, nature, and duration of the Processing: For the subject matter and nature of the Processing, reference is made to the Agreement and DPA. The Processing will take place for the duration of the Agreement, subject to the return, deletion, and limited retention requirements in Section 8 of this Schedule.
+For International Data Transfer to (Sub)Processors, also specify subject matter, nature, and duration of the Processing: For the subject matter and nature of the Processing, reference is made to the Agreement and DPA. The Processing may continue for the duration of the Agreement and the limited post-termination storage period described in Section 8 of this Schedule, subject to its return, deletion, and legally required retention provisions.
 
 ### 10. Competent Supervisory Authority
 
