@@ -1,12 +1,14 @@
 ---
 document_type: "reference"
 description: "Terms governing use of General Translation services."
-last_updated: "2026-09-10"
+last_updated: "2026-10-07"
 ---
 
 # Terms of Service
 
 These Terms of Service (including the other documents incorporated by reference herein, these “**Terms**”) are between General Translation, Inc., a Delaware corporation (“**General Translation,**” “**we**,” “**our**”, or “**us**,”) and you and are effective as of the date upon which you accept these Terms (“**Effective Date**”). General Translation and you are each a “**Party**” and, together, the “**Parties**.” “**Customer**” or “**you**” means in the case of an individual accepting these terms on their own behalf, such individual, or in the case of an individual accepting these terms on behalf of a company or other legal entity, the company or other legal entity for which such individual is accepting this Agreement.
+
+If you and we have entered into a separately executed Cloud Services Agreement or other master services agreement governing particular Services, that agreement governs those Services. These Terms do not supersede or amend that agreement, and using or paying for those Services does not constitute acceptance of these Terms for those Services. These Terms may govern other Services not covered by that agreement.
 
 BY ACCEPTING THESE TERMS, EITHER BY CLICKING A BOX INDICATING ACCEPTANCE, EXECUTING ANOTHER DOCUMENT THAT REFERENCES THESE TERMS, USING (OR MAKING ANY PAYMENT FOR) ANY SERVICES (DEFINED BELOW) OR OTHERWISE AFFIRMATIVELY INDICATING ACCEPTANCE OF THESE TERMS CUSTOMER AGREES TO THESE TERMS. THE INDIVIDUAL ACCEPTING THESE TERMS REPRESENTS THAT THEY HAVE THE AUTHORITY TO BIND CUSTOMER TO THESE TERMS. IF SUCH INDIVIDUAL DOES NOT HAVE SUCH AUTHORITY, OR CANNOT OR DOES NOT AGREE WITH THESE TERMS, SUCH INDIVIDUAL MUST NOT ACCEPT THESE TERMS AND MAY NOT USE ANY SERVICES.
 
@@ -18,7 +20,7 @@ You may execute one or more ordering documents or online forms or otherwise make
 
 ### 1.2. Users
 
-Only your employees or contractors acting in such capacity (“**Users**”), using the mechanisms designated by us (“**Login Credentials**”), may access and use the GT Platform. Each User must keep its Login Credentials confidential and not share them with anyone else. You are responsible for your Users’ compliance with these Terms and all actions taken through your Login Credentials (excluding misuse of the Login Credentials caused by our breach of these Terms). You will promptly notify us if you become aware of any compromise of any Login Credentials.
+Only you, if you are an individual Customer, and your employees or contractors acting in such capacity (collectively, “**Users**”), using the mechanisms designated by us (“**Login Credentials**”), may access and use the GT Platform. Each User must keep its Login Credentials confidential and not share them with anyone else. You are responsible for your Users’ compliance with these Terms and all actions taken through your Login Credentials (excluding misuse of the Login Credentials caused by our breach of these Terms). You will promptly notify us if you become aware of any compromise of any Login Credentials.
 
 ### 1.3. GT Software; Open Source and Source Available
 
@@ -84,13 +86,13 @@ You will pay the fees selected in each Order (“**Fees**"). All Fees will be pa
 
 ### 9.2. Payment and Taxes
 
-Except as may be set forth in the applicable subscription plan, you will pay us (a) all Fees in advance of each billing cycle (monthly or annual, as selected by you at sign-up), and (b) all other Fees not due upfront, monthly within 30 days after the end of the month in which the Fees were accrued. Unless the Order provides otherwise, all Fees are due within 30 days of the invoice date. Late payments are subject to a service charge of 1.5% per month or the maximum amount allowed by Laws, whichever is less. All Fees are non-refundable except as may be set out in Section 10.2(a) and Section 13.4. You are responsible for any sales, use, GST, value-added, withholding, or similar taxes or levies that apply to your purchases hereunder, whether domestic or foreign, other than our income tax (“**Taxes**”). Fees are exclusive of all Taxes.
+Unless otherwise expressly agreed in an Order, purchased usage credits (“**Credits**”) must be paid for before they become available for use. Usage is deducted from your available credit balance. If you enable automatic replenishment, you authorize us to charge your selected payment method for additional Credits according to your selected settings. For separately agreed charges other than Credit purchases, and except as may be set forth in an Order or the applicable subscription plan, you will pay us (a) subscription Fees in advance of each billing cycle (monthly or annual, as selected by you at sign-up), and (b) other Fees not due upfront, monthly within 30 days after the end of the month in which the Fees were accrued. Late payments are subject to a service charge of 1.5% per month or the maximum amount allowed by Laws, whichever is less. All Fees are non-refundable except as may be set out in Section 10.2(a) and Section 13.4. You are responsible for any sales, use, GST, value-added, withholding, or similar taxes or levies that apply to your purchases hereunder, whether domestic or foreign, other than our income tax (“**Taxes**”). Fees are exclusive of all Taxes.
 
 ## 10. Warranties and Disclaimers
 
 ### 10.1. Mutual Warranties
 
-Each Party represents, warrants, and covenants to the other Party that: (a) it is duly organized, validly existing, and in good standing in the jurisdiction of its incorporation; (b) the execution and delivery of these Terms by such Party and the transactions contemplated hereby have been duly and validly authorized by all necessary action on the part of such Party; (c) these Terms constitutes a valid and binding obligation of such Party that is enforceable in accordance with its terms; and (d) the entering into and performance of these Terms by such Party does not and will not violate, conflict with, or result in a material default under any other agreement or obligation by which such Party is or may become subject or bound.
+Each Party represents, warrants, and covenants to the other Party that: (a) if it is a legal entity, it is duly organized, validly existing, and in good standing in the jurisdiction of its incorporation; (b) the execution and delivery of these Terms by such Party and the transactions contemplated hereby have been duly and validly authorized by all necessary action on the part of such Party; (c) these Terms constitute a valid and binding obligation of such Party that is enforceable in accordance with its terms; and (d) the entering into and performance of these Terms by such Party does not and will not violate, conflict with, or result in a material default under any other agreement or obligation by which such Party is or may become subject or bound.
 
 ### 10.2. General Translation Warranty
 
@@ -124,11 +126,17 @@ Either Party may terminate these Terms (including any or all Orders) if the othe
 
 ### 11.3. Effect of Termination
 
-Upon expiration or termination of a specific Order or these Terms, your access to and our obligations to provide the applicable terminated Services described will cease and you will promptly pay to us all unpaid Fees or other amounts that have accrued pursuant to any terminated Orders prior to the effective date of its expiration or termination. In addition, upon termination of these Terms, each Party will promptly return or delete Confidential Information of the other Party.
+Except for the limited processing under Section 11.5, upon expiration or termination of a specific Order or these Terms, your access to and our obligations to provide the applicable terminated Services described will cease and you will promptly pay to us all unpaid Fees or other amounts that have accrued pursuant to any terminated Orders prior to the effective date of its expiration or termination. In addition, upon termination of these Terms, each Party will promptly return or delete Confidential Information of the other Party, subject to Section 11.5.
 
 ### 11.4. Survival
 
-These Sections survive expiration or termination of these Terms: 1.4; 1.5; 3; 9; 11.3; 11.4; and 12 through 16. Except where an exclusive remedy is provided in these Terms, exercising a remedy under these Terms, including termination, does not limit other remedies a Party may have.
+These Sections survive expiration or termination of these Terms: 1.4; 1.5; 3; 7 (for as long as we or our subprocessors retain Customer Personal Data); 9; 10.3; 11.3; 11.4; 11.5; and 12 through 16. Except where an exclusive remedy is provided in these Terms, exercising a remedy under these Terms, including termination, does not limit other remedies a Party may have.
+
+### 11.5. Limited Retention After Services End
+
+Subject to Section 7 and your earlier return or deletion instructions, we may retain Your Data and Outputs for up to one year after the Services to which they relate end, including through expiration or termination of an Order, closure of your account, or termination of these Terms. For the affected Services, limited storage, return, and deletion during this period form part of winding down the Services. This permission does not require us to retain data or guarantee its availability or recovery. We will delete remaining copies, including backups, by the end of that period unless Laws require further retention; any earlier deadline under the applicable DPA, Laws, or your return or deletion instructions controls. Retained data remains subject to the confidentiality, security, and use restrictions in these Terms.
+
+The one-year limit does not apply to records we independently maintain for billing, accounting, tax, security, or legal compliance, which remain subject to Laws and Section 14. This exception does not extend retention of customer content or Outputs processed on the customer's behalf.
 
 ## 12. Limitations of Liability
 
@@ -216,7 +224,7 @@ Except as set out in these Terms, any notice or consent under these Terms must b
 
 ### 16.4. Entire Agreement
 
-These Terms (which include all Orders) are the Parties’ entire agreement regarding its subject matter and supersedes any prior or contemporaneous agreements regarding its subject matter. In these Terms, headings are for convenience only and “including” and similar terms are to be construed without limitation. These Terms may be executed in counterparts (including electronic copies and PDFs), each of which is deemed an original and which together form one and the same agreement.
+Subject to the separately executed agreement provision at the beginning of these Terms, these Terms (which include all Orders under these Terms) are the Parties’ entire agreement regarding their subject matter and supersede any prior or contemporaneous agreements regarding that subject matter. In these Terms, headings are for convenience only and “including” and similar terms are to be construed without limitation. These Terms may be executed in counterparts (including electronic copies and PDFs), each of which is deemed an original and which together form one and the same agreement.
 
 ### 16.5. Amendments
 
@@ -248,4 +256,4 @@ Elements of the GT Technology are commercial computer software. If you or any of
 
 ### 16.12. Conflicts in Interpretation
 
-Inconsistencies or conflicts between the terms of these Terms will be resolved with respect to such inconsistency or conflict in the following descending order of precedence: (a) the terms contained in the body of these Terms; (b) the terms of an Order (unless the Parties expressly state the provision of these Terms to be amended by the Order, in which case the Order will control with respect to such conflict); and (c) the Documentation.
+Inconsistencies or conflicts between the terms of these Terms will be resolved with respect to such inconsistency or conflict in the following descending order of precedence: (a) the Data Processing Agreement with respect to Customer Personal Data; (b) the terms contained in the body of these Terms; (c) the terms of an Order (unless the Parties expressly state the provision of these Terms to be amended by the Order, in which case the Order will control with respect to such conflict); and (d) the Documentation. The Credit Terms do not limit any refund, credit, or other remedy expressly provided under these Terms or an Order.

@@ -1,7 +1,7 @@
 ---
 document_type: "reference"
 description: "How General Translation collects, uses, and discloses personal data."
-last_updated: "2026-07-17"
+last_updated: "2026-10-07"
 ---
 
 # Privacy Policy
@@ -184,6 +184,8 @@ If you choose not to provide us with personal data we collect, some features of 
 The Service may contain links to other websites, products, or services that we do not own or operate or permit you to integrate with third-party services. We are not responsible for the privacy practices of these third parties. Please be aware that this Privacy Policy does not apply to your activities on these third-party services or any data you disclose to these third parties. We encourage you to read their privacy policies before providing any data to them.
 
 ## Retention
+
+For customer content and outputs processed on a customer's behalf, the governing agreement and Data Processing Agreement control retention. Where the customer has agreed to terms expressly permitting it, we may retain that content and those outputs for up to one year after the affected Services end, subject to earlier return or deletion instructions and applicable law. This period includes backup copies and does not guarantee that data will remain available or recoverable. It does not change existing agreements or the separate retention criteria below for records we process for our own purposes.
 
 We retain personal data about you for as long as reasonably necessary to provide you with the Service, or otherwise in support of our business or commercial purposes. When you request that we do so, we take measures to delete your personal data or keep it in a form that does not permit identifying you when this personal data is no longer reasonably necessary for the purposes for which we process it, unless we are required by law to keep this information for a longer period. When we process personal data for our own purposes, we determine the retention period taking into account various criteria, such as the type of products and services provided to you, the nature and length of our relationship with you, possible re-enrollment with products and services, the impact on the products and services we provide to you if we delete some personal data from or about you, and mandatory retention periods provided by law and the statute of limitations.
 
