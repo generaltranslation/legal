@@ -28,9 +28,9 @@ General Translation will only Process Customer Personal Data to provide the Serv
 
 General Translation will not (a) “sell” or “share” (as such terms are defined in the California Consumer Privacy Act (“**CCPA**”)) Customer Personal Data, (b) retain, use, or disclose Customer Personal Data for any purpose other than in accordance with the Documented Instructions, (c) retain, use, or disclose Customer Personal Data outside of the direct business relationship between Customer and General Translation, nor (d) except as otherwise permitted under applicable Data Protection Law, combine Customer Personal Data with personal data that General Translation receives from or on behalf of any third party.
 
-### 2.3. No Model Training
+### 2.3. Retention and Deletion
 
-General Translation will not use Customer Personal Data, including aggregated, anonymized, or de-identified forms of it, to train or fine-tune artificial intelligence or machine-learning models, or permit its Subprocessors to do so.
+Where the Agreement expressly permits retention after the affected Services end, Customer instructs General Translation to provide the limited storage, return, and deletion described in that provision, subject to Data Protection Law and the EU SCCs and UK Addendum where applicable. Customer may instruct earlier return or deletion at any time. At the end of that processing, General Translation will, at Customer's choice, return or delete Customer Personal Data and delete existing copies, unless applicable law requires storage. This Section does not extend any retention period or authorize retention under an Agreement that requires earlier return or deletion.
 
 ## 3. Subprocessors
 
@@ -143,11 +143,11 @@ The Customer Personal Data will be transferred and further processed for the pro
 
 ### 8. Duration of Processing
 
-The period for which the Personal Data will be retained, or, if that is not possible, the criteria used to determine that period: Customer Personal Data will be retained for as long as necessary taking into account the purpose of the Processing, and in compliance with applicable laws, including laws on the statute of limitations and Data Protection Law.
+The period for which the Personal Data will be retained, or, if that is not possible, the criteria used to determine that period: Customer Personal Data may be retained only as necessary for the applicable Services, including limited retention expressly permitted by the Agreement, and no longer than the Agreement permits, subject to earlier return or deletion instructions and applicable Data Protection Law. Any retention required by law is limited to the data and period that law requires.
 
 ### 9. Sub-Processor Transfers
 
-For International Data Transfer to (Sub)Processors, also specify subject matter, nature, and duration of the Processing: For the subject matter and nature of the Processing, reference is made to the Agreement and DPA. The Processing will take place for the duration of the Agreement.
+For International Data Transfer to (Sub)Processors, also specify subject matter, nature, and duration of the Processing: For the subject matter and nature of the Processing, reference is made to the Agreement and DPA. The Processing will take place for the period described in Section 8 of this Schedule, subject to Section 2.3 of this DPA.
 
 ### 10. Competent Supervisory Authority
 

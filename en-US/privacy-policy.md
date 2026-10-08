@@ -76,10 +76,6 @@ We use the personal data we collect:
 
 - For other purposes for which we provide specific notice at the time the information is collected.
 
-### No Model Training on Customer Data
-
-We do not use data provided by our customers or outputs generated from it, including aggregated, anonymized, or de-identified forms of either, to train or fine-tune artificial intelligence or machine-learning models, or permit our service providers to do so. The purposes described in this Privacy Policy do not override this restriction.
-
 ## Legal Bases for Processing European Personal Data
 
 If you are located in the European Economic Area (“**EEA**”) or the United Kingdom (“**UK**”), we only process your personal data when we have a valid “legal basis,” including as set forth below.
@@ -188,6 +184,8 @@ If you choose not to provide us with personal data we collect, some features of 
 The Service may contain links to other websites, products, or services that we do not own or operate or permit you to integrate with third-party services. We are not responsible for the privacy practices of these third parties. Please be aware that this Privacy Policy does not apply to your activities on these third-party services or any data you disclose to these third parties. We encourage you to read their privacy policies before providing any data to them.
 
 ## Retention
+
+For customer content and outputs processed on a customer's behalf, the governing agreement and Data Processing Agreement control retention. Where the customer has agreed to terms expressly permitting it, we may retain that content and those outputs for up to one year after the affected Services end, subject to earlier return or deletion instructions and applicable law. This period includes backup copies and does not guarantee that data will remain available or recoverable. It does not change existing agreements or the separate retention criteria below for records we process for our own purposes.
 
 We retain personal data about you for as long as reasonably necessary to provide you with the Service, or otherwise in support of our business or commercial purposes. When you request that we do so, we take measures to delete your personal data or keep it in a form that does not permit identifying you when this personal data is no longer reasonably necessary for the purposes for which we process it, unless we are required by law to keep this information for a longer period. When we process personal data for our own purposes, we determine the retention period taking into account various criteria, such as the type of products and services provided to you, the nature and length of our relationship with you, possible re-enrollment with products and services, the impact on the products and services we provide to you if we delete some personal data from or about you, and mandatory retention periods provided by law and the statute of limitations.
 
