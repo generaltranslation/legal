@@ -206,7 +206,7 @@ Nothing in these Terms prohibits Recipient from making disclosures of Confidenti
 
 ## 15. Publicity
 
-Nothing in these Terms grants either Party the right to use the name, brand, or logo of the other Party, and neither Party may publicly announce that the Parties have entered into these Terms, except with the other Party’s prior consent or as required by Laws. However, we may use your (or your parent company’s) name, brand, or logo for the purpose of identifying you as a licensee or customer on our website or in other promotional materials, or as part of a list of our customers in a press release or other public relations materials announcing your use of the GT Technology. We will cease further use at your written request.
+Nothing in these Terms grants either Party the right to use the name, brand, or logo of the other Party, and neither Party may publicly announce that the Parties have entered into these Terms, except with the other Party’s prior consent or as required by Laws. However, we may use your (or your parent company’s) name, brand, or logo for the purpose of identifying you as a licensee or customer on our website or in other promotional materials, or as part of a list of our customers in a press release or other public relations materials announcing your use of the GT Technology.
 
 ## 16. General Terms
 
